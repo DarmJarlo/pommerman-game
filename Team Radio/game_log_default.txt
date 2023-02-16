@@ -1,0 +1,130 @@
+Agent1
+Game: 0	 Winrate: 0.0	 Total reward: 1	 Avg reward: 0.02	 Actions: 397	 Last Action: 1
+Agent2
+Game: 0	 Winrate: 0.0	 Total reward: 1	 Avg reward: 0.02	 Actions: 397	 Last Action: 4
+
+Agent1
+Game: 1	 Winrate: 0.0	 Total reward: 1	 Avg reward: 0.02	 Actions: 378	 Last Action: 0
+Agent2
+Game: 1	 Winrate: 0.0	 Total reward: 1	 Avg reward: 0.02	 Actions: 378	 Last Action: 2
+
+Agent1
+Game: 0	 Winrate: 100.0	 Total reward: 1	 Avg reward: 0.02	 Actions: 167	 Last Action: 0
+Agent2
+Game: 0	 Winrate: 0.0	 Total reward: 1	 Avg reward: 0.02	 Actions: 167	 Last Action: 2
+
+Agent1
+Game: 1	 Winrate: 100.0	 Total reward: 1	 Avg reward: 0.02	 Actions: 191	 Last Action: 0
+Agent2
+Game: 1	 Winrate: 0.0	 Total reward: 1	 Avg reward: 0.02	 Actions: 191	 Last Action: 0
+
+Agent1
+Game: 2	 Winrate: 100.0	 Total reward: 1	 Avg reward: 0.02	 Actions: 368	 Last Action: 5
+Agent2
+Game: 2	 Winrate: 0.0	 Total reward: 1	 Avg reward: 0.02	 Actions: 368	 Last Action: 1
+
+Agent1
+Game: 3	 Winrate: 100.0	 Total reward: 1	 Avg reward: 0.04	 Actions: 11	 Last Action: 0
+Agent2
+Game: 3	 Winrate: 0.0	 Total reward: 1	 Avg reward: 0.04	 Actions: 11	 Last Action: 3
+
+Agent1
+Game: 0	 Winrate: 100.0	 Total reward: 1	 Avg reward: 0.02	 Actions: 183	 Last Action: 0
+Agent2
+Game: 0	 Winrate: 100.0	 Total reward: 1	 Avg reward: 0.02	 Actions: 183	 Last Action: 5
+
+Agent1
+Game: 1	 Winrate: 50.0	 Total reward: -1	 Avg reward: -0.02	 Actions: 308	 Last Action: 0
+Agent2
+Game: 1	 Winrate: 50.0	 Total reward: -1	 Avg reward: -0.02	 Actions: 308	 Last Action: 0
+
+Agent1
+Game: 2	 Winrate: 66.66666666666666	 Total reward: 1	 Avg reward: 0.02	 Actions: 139	 Last Action: 0
+Agent2
+Game: 2	 Winrate: 66.66666666666666	 Total reward: 1	 Avg reward: 0.02	 Actions: 139	 Last Action: 0
+
+Agent1
+Game: 3	 Winrate: 50.0	 Total reward: -1	 Avg reward: -0.02	 Actions: 240	 Last Action: 0
+Agent2
+Game: 3	 Winrate: 50.0	 Total reward: -1	 Avg reward: -0.02	 Actions: 240	 Last Action: 0
+
+Agent1
+Game: 4	 Winrate: 60.0	 Total reward: 1	 Avg reward: 0.02	 Actions: 185	 Last Action: 3
+Agent2
+Game: 4	 Winrate: 60.0	 Total reward: 1	 Avg reward: 0.02	 Actions: 185	 Last Action: 0
+
+Agent1
+Game: 5	 Winrate: 50.0	 Total reward: -1	 Avg reward: -0.02	 Actions: 388	 Last Action: 0
+Agent2
+Game: 5	 Winrate: 50.0	 Total reward: -1	 Avg reward: -0.02	 Actions: 388	 Last Action: 0
+
+Agent1
+Game: 6	 Winrate: 42.857142857142854	 Total reward: -1	 Avg reward: -0.02	 Actions: 452	 Last Action: 0
+Agent2
+Game: 6	 Winrate: 42.857142857142854	 Total reward: -1	 Avg reward: -0.02	 Actions: 452	 Last Action: 0
+
+Agent1
+Game: 0	 Winrate: 0.0	 Total reward: -1	 Avg reward: -0.01	 Actions: 389	 Last Action: 0
+Agent2
+Game: 0	 Winrate: 0.0	 Total reward: -1	 Avg reward: -0.01	 Actions: 389	 Last Action: 0
+
+Agent1
+Game: 0	 Winrate: 100.0	 Total reward: 1	 Avg reward: 0.01	 Actions: 244	 Last Action: 2
+Agent2
+Game: 0	 Winrate: 100.0	 Total reward: 1	 Avg reward: 0.01	 Actions: 244	 Last Action: 0
+
+Agent1
+Game: 1	 Winrate: 100.0	 Total reward: 1	 Avg reward: 0.03	 Actions: 10	 Last Action: 4
+Agent2
+Game: 1	 Winrate: 100.0	 Total reward: 1	 Avg reward: 0.03	 Actions: 10	 Last Action: 3
+
+Agent1
+Game: 2	 Winrate: 66.66666666666666	 Total reward: -1	 Avg reward: -0.01	 Actions: 329	 Last Action: 0
+Agent2
+Game: 2	 Winrate: 66.66666666666666	 Total reward: -1	 Avg reward: -0.01	 Actions: 329	 Last Action: 0
+
+Agent1
+Game: 3	 Winrate: 75.0	 Total reward: 1	 Avg reward: -0.01	 Actions: 10	 Last Action: 1
+Agent2
+Game: 3	 Winrate: 75.0	 Total reward: 1	 Avg reward: -0.01	 Actions: 10	 Last Action: 3
+
+Agent1
+Game: 4	 Winrate: 60.0	 Total reward: -1	 Avg reward: -0.01	 Actions: 222	 Last Action: 4
+Agent2
+Game: 4	 Winrate: 60.0	 Total reward: -1	 Avg reward: -0.01	 Actions: 222	 Last Action: 0
+
+Agent1
+Game: 0	 Winrate: 100.0	 Total reward: 1	 Avg reward: 0.01	 Actions: 770	 Last Action: 0
+Agent2
+Game: 0	 Winrate: 100.0	 Total reward: 1	 Avg reward: 0.01	 Actions: 770	 Last Action: 0
+
+Agent1
+Game: 1	 Winrate: 100.0	 Total reward: 1	 Avg reward: 0.01	 Actions: 782	 Last Action: 3
+Agent2
+Game: 1	 Winrate: 100.0	 Total reward: 1	 Avg reward: 0.01	 Actions: 782	 Last Action: 0
+
+Agent1
+Game: 2	 Winrate: 100.0	 Total reward: 1	 Avg reward: 0.01	 Actions: 145	 Last Action: 4
+Agent2
+Game: 2	 Winrate: 100.0	 Total reward: 1	 Avg reward: 0.01	 Actions: 145	 Last Action: 1
+
+Agent1
+Game: 3	 Winrate: 75.0	 Total reward: -1	 Avg reward: -0.01	 Actions: 308	 Last Action: 2
+Agent2
+Game: 3	 Winrate: 75.0	 Total reward: -1	 Avg reward: -0.01	 Actions: 308	 Last Action: 0
+
+Agent1
+Game: 4	 Winrate: 80.0	 Total reward: 1	 Avg reward: 0.0	 Actions: 11	 Last Action: 4
+Agent2
+Game: 4	 Winrate: 80.0	 Total reward: 1	 Avg reward: 0.0	 Actions: 11	 Last Action: 4
+
+Agent1
+Game: 5	 Winrate: 66.66666666666666	 Total reward: -1	 Avg reward: -0.01	 Actions: 451	 Last Action: 2
+Agent2
+Game: 5	 Winrate: 66.66666666666666	 Total reward: -1	 Avg reward: -0.01	 Actions: 451	 Last Action: 0
+
+Agent1
+Game: 0	 Winrate: 0.0	 Total reward: -1	 Avg reward: -0.01	 Actions: 268	 Last Action: 0
+Agent2
+Game: 0	 Winrate: 0.0	 Total reward: -1	 Avg reward: -0.01	 Actions: 268	 Last Action: 0
+
